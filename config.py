@@ -13,3 +13,7 @@ title = "Roumyana Pancheva"
 tagline = "Professor of Linguistics &<br> Slavic Languages & Literatures, <br> University of Southern California"
 
 root = "https://pancheva.github.io"
+#
+# HTML output directory compatible with GitHub Pages
+#
+out_dir = "docs"
