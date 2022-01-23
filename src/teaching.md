@@ -23,9 +23,11 @@ title: Teaching
 * PHIL 501: Compositional Degree Semantics (F'21 with A. Wellwood)
 * SLL 510: Old Church Slavonic (F’06, F’09)
 * SLL 512: The History of the Russian Language (S’02, S’05, F’11, F’14, F’16, F’18, F'20)
+* SLL 515: Russian Linguistics (S'22)
 * SLL 516: The Structure of Russian - Morphology and Syntax (F’00, S’02, F’05, S’08, S’10, S’12, F’13, F’15, F’17)
 * SLL 599: Comparative Slavic Linguistics (S’01)
 ### Summer / fall / winter schools:
+* Introduction to formal semantics (4th Virtual NYI, New York/St. Petersburg Winter Institute, 2022, with R. Bhatt _&_ L.M. Toquero Perez)
 * Numerals (3rd Virtual NYI, New York/St. Petersburg Summer Institute, 2021, with R. Bhatt)
 * Tenselessness (2nd Virtual NYI, New York/St. Petersburg Winter Institute, 2021)
 * Numerals (1st Virtual NYI, New York/St. Petersburg Summer Institute, 2020, with R. Bhatt)

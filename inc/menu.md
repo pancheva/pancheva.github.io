@@ -8,4 +8,5 @@
 * [Research](@root/research//)
 * [Papers](@root/papers//)
 * [Teaching](@root/teaching//)
-* [PhD Supervision](@root/theses//)
+* [PhD supervision](@root/theses//)
+* [Editorial boards](@root/service//)
