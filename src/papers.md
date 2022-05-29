@@ -1,7 +1,9 @@
 ---
 title: Papers
 ---
-* Pancheva, R. (2021). “Morphosyntactic variation in numerically-quantified noun phrases in Bulgarian”, Ms. under review [[pdf]](@root/papers/P(2021)ms.pdf)
+* Pancheva, R. (2022). “Determiner vs. adjectival numerals and nominal number” In L. Stockall, L. Martí, D. Adger, I. Roy and S. Ouwayda (eds) \textit{For Hagit: A Celebration}, QMUL Occasional Papers in Linguistics 47. [[pdf]](@root/papers/P(2022)HBFest.pdf)
+* Pancheva, R. (2021). “Morphosyntactic variation in numerically-quantified noun phrases in Bulgarian”, Ms. under review. [[pdf]](@root/papers/P(2021)ms.pdf)
+* Pancheva, R. _&_ M.L. Zubizarreta (2021). "No tense: Temporality in the grammar of Paraguayan Guarani", Ms. under revisions. [[pdf]](@root/papers/P&Z(2021)ms.pdf)
 * Pancheva, R. _&_ M.L. Zubizarreta (2020). “Temporal reference in the absence of tense in Paraguayan Guaraní”, In In M. Asatryan, Y. Song, A. Whitmal (eds.) _Proceedings of NELS 50_ 265-278. [[pdf]](@root/papers/P&Z(2020)NELS.pdf)
 * Pancheva, R. _&_ D. Rudin (2019). “Speaker discourse roles and the discourse profile of reportative evidentials”, In J.J. Schlöder, D. McHugh _&_ F. Roelofsen (eds.) _Pre-proceedings of the Amsterdam Colloquium 2019_, 327-336. [[pdf]](http://events.illc.uva.nl/AC/AC2019/uploaded_files/inlineitem/Pancheva_and_Rudin_Speaker_discourse_roles_and_the_.pdf)
 * Pancheva, R. _&_ M.L. Zubizarreta (2019). “On the role of person features in the evidential-temporal connection”, _Canadian Journal of Linguistics_ 65(1): 1–36, a special volume on _Person_. [[pdf]](@root/papers/P&Z(2019)CJL.pdf)
