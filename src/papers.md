@@ -1,7 +1,7 @@
 ---
 title: Papers
 ---
-* Pancheva, R. (2022). “Determiner vs. adjectival numerals and nominal number” In L. Stockall, L. Martí, D. Adger, I. Roy and S. Ouwayda (eds) \textit{For Hagit: A Celebration}, QMUL Occasional Papers in Linguistics 47. [[pdf]](@root/papers/P(2022)HBFest.pdf)
+* Pancheva, R. (2022). “Determiner vs. adjectival numerals and nominal number” In L. Stockall, L. Martí, D. Adger, I. Roy and S. Ouwayda (eds) _For Hagit: A Celebration_, QMUL Occasional Papers in Linguistics 47. [[pdf]](@root/papers/P(2022)HBFest.pdf)
 * Pancheva, R. (2021). “Morphosyntactic variation in numerically-quantified noun phrases in Bulgarian”, Ms. under review. [[pdf]](@root/papers/P(2021)ms.pdf)
 * Pancheva, R. _&_ M.L. Zubizarreta (2021). "No tense: Temporality in the grammar of Paraguayan Guarani", Ms. under revisions. [[pdf]](@root/papers/P&Z(2021)ms.pdf)
 * Pancheva, R. _&_ M.L. Zubizarreta (2020). “Temporal reference in the absence of tense in Paraguayan Guaraní”, In In M. Asatryan, Y. Song, A. Whitmal (eds.) _Proceedings of NELS 50_ 265-278. [[pdf]](@root/papers/P&Z(2020)NELS.pdf)
