@@ -1,6 +1,7 @@
 ---
 title: Papers
 ---
+* Lee, Tommy Tsz-Ming, R. Pancheva _&_ M.L. Zubizarreta (2022). "Genuinly tenseless: Encoding time in Cantonese", _Proceedings of SALT 32_. [[pdf]](@root/papers/LP&Z(2022)SALT.pdf)
 * Pancheva, R. (2022). “Determiner vs. adjectival numerals and nominal number” In L. Stockall, L. Martí, D. Adger, I. Roy and S. Ouwayda (eds). _For Hagit: A Celebration_, QMUL Occasional Papers in Linguistics 47. [[pdf]](@root/papers/P(2022)HBFest.pdf)
 * Pancheva, R. _&_ M.L. Zubizarreta (2022). "No tense: Temporality in the grammar of Paraguayan Guarani", Ms. under revisions. [[pdf]](@root/papers/P&Z(2022)ms.pdf)
 * Pancheva, R. (2021). “Morphosyntactic variation in numerically-quantified noun phrases in Bulgarian”, Ms. under review. [[pdf]](@root/papers/P(2021)ms.pdf)
@@ -53,12 +54,13 @@ Response to Y. Grodzinsky (2000). "The Neurology of Syntax: Language Use Without
 * Izvorski, R. _&_ M. Ullman (1999). "Verb inflection and the hierarchy of functional categories in agrammatic anterior aphasia," _Brain & Language_ 69 (3), 288-291. [[pdf]](@root/papers/I&U(1999)BL.pdf)
 * Izvorski, R. (1998). "Non-indicative wh-complements of existential and possessive predicates", In P.N. Tamanji _&_ K. Kusumoto (eds.) _NELS 28_, 159-173. 
 * Bhatt, R. _&_ R. Izvorski (1998). “Genericity, implicit arguments and control”, _SCIL 7_. 
+* Rudin, C., T. King _&_ R. Izvorski (1998). "Focus in Bulgarian and Russian yes-no questions", In E. Benedicto, M. Romero, _&_ S. Tomioka (eds.) _Proceedings of the Workshop on Focus_, UMass Occasional Papers 21, 209-225. [[pdf]](@root/papers/RK&I(1998).pdf)
 * Izvorski, R. (1997). "The present perfect as an epistemic modal", In A. Lawson _&_ E. Cho (eds.), _SALT VII_, CLC Publications: Cornell University. [[pdf]](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/2795)
 * Izvorski, R. (1997). "The syntax and semantics of correlative proforms", In K. Kusumoto (ed.) _NELS 26_, 133-147. 
 * Izvorski, R. (1997). "Subject free relatives in null-subject languages: Evidence from Slavic", In W. Browne, E. Dornisch, N. Kondrashova _&_ D. Zec (eds.) _Formal Approaches to Slavic Linguistics: The Cornell Meeting_, 267-288. 
 * Embick, D. _&_ R. Izvorski (1997). “Participle-auxiliary word orders in Slavic”, In W. Browne, E. Dornisch, N. Kondrashova, _&_ D. Zec (eds.) _Formal Approaches to Slavic Linguistics: The Cornell Meeting_. 
 * Izvorski, R., T. King _&_ C. Rudin (1997). "Against _li_-lowering in Bulgarian", _Lingua_ 102 (2/3), 187-194.  [[pdf]](@root/papers/IK&R(1997)L.pdf)
 * Izvorski, R. (1996). "(Non-)matching effects in free relatives and pro-drop", in M. Przezdziecki _&_ L. Whaley (eds.) _ESCOL'95_, Cornell University, 89-102. 
-* Izvorski, R. (1995). "A solution to the subcomparative paradox", In J. Camacho, L. Choueiri _&_ M. Watanabe, _WCCFL 14_, CSLI Publications, 203-219. 
+* Izvorski, R. (1995). "A solution to the subcomparative paradox", In J. Camacho, L. Choueiri _&_ M. Watanabe (eds.) _WCCFL 14_, CSLI Publications, 203-219. 
 * Izvorski, R. (1995). "A DP-shell for comparatives", In A. Bisetti, L. Bruge, J. Costa, R. Goedemans, N. Munaro, _&_ R. van de Vijver (eds.) _ConSole III Proceedings_. The Hague: Holland Academic Graphics, 99-121.  [[pdf]](@root/papers/I(1995)ConSOLE3.pdf)
 * Izvorski, R. (1995). “Wh-movement and focus-movement in Bulgarian”, In R. Eckardt _&_ V. van Geenhoven (eds.) _ConSole II Proceedings_. The Hague: Holland Academic Graphics, 54-67. [[pdf]](@root/papers/I(1995)ConSOLE.pdf)
