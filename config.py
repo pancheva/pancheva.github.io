@@ -10,7 +10,7 @@ theme = "graphite"
 title = "Roumyana Pancheva"
 
 # Site tagline.
-tagline = "Professor of Linguistics<br> University of California, Santa Cruz"
+tagline = "Professor of Linguistics<br>UC Santa Cruz"
 
 root = "https://pancheva.github.io"
 #
