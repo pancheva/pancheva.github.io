@@ -9,4 +9,3 @@
 * [Papers](@root/papers//)
 * [Teaching](@root/teaching//)
 * [PhD supervision](@root/theses//)
-* [Editorial boards](@root/service//)
